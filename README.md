@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulises</h1>
 <h3 align="center">Learning Full Stack MERN. Always learning.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulisescolosimo" alt="ulisescolosimo" /></a> </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ulisescolosimo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on final project, ecommerce project [The Salty Shop - eCommerce](https://github.com/ulisescolosimo/ecommerce-thesalty)
 
