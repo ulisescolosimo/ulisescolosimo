@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ulises</h1>
 <h3 align="center">Learning Full Stack MERN. Always learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulisescolosimo" alt="ulisescolosimo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulisescolosimo" alt="ulisescolosimo" /></a> </p>
 
-- 🔭 I’m currently working on final work, ecommerce project [The Salty Shop - eCommerce](https://github.com/ulisescolosimo/ecommerce-thesalty)
+- 🔭 I’m currently working on final project, ecommerce project [The Salty Shop - eCommerce](https://github.com/ulisescolosimo/ecommerce-thesalty)
 
 - 🌱 I’m currently learning **Next JS, Firebase and MercadoPago API**
 
