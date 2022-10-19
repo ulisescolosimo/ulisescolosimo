@@ -3,7 +3,7 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ulisescolosimo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on final project, ecommerce project [The Salty Shop - eCommerce](https://github.com/ulisescolosimo/ecommerce-thesalty)
+- 🔭 I’m currently working on new projects!
 
 - 🌱 I’m currently learning **Next JS, Firebase and MercadoPago API**
 
