@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulises</h1>
-<h3 align="center">Learning Full Stack MERN. Always learning.</h3>
+<h3 align="center">Full Stack MERN. Always learning.</h3>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ulisescolosimo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
