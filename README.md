@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on new projects!
 
-- 🌱 I’m currently learning **Next JS, TypeScript, Sequelize, SQL**
+- 🌱 I’m currently learning **Mobile development**
 
 - 📫 How to reach me **colosimo101@gmail.com**
 
